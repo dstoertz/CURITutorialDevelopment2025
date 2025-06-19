@@ -24,6 +24,11 @@
           <department>MSCS</department>
           <institution>St. Olaf College</institution>
         </author>
+        <author>
+          <personname>Daniel Stoertz</personname>
+          <department>MSCS</department>
+          <institution>St. Olaf College</institution>
+        </author>
       </credit>
       <date>
         <today />
